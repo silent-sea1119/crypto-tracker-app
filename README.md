@@ -28,7 +28,7 @@
 ## Clone
 
 ```sh
-git clone https://github.com/skoczy01/crypto-tracker-app
+git clone https://github.com/silent-sea1119/crypto-tracker-app
 ```
 
 ### What u need
@@ -83,10 +83,9 @@ npm run dev
 
 ## Author
 
-👤 **Skoczy01**
+👤 **silent-sea1119**
 
-- Github: [@skoczy01](https://github.com/skoczy01)
-- LinkedIn: https://www.linkedin.com/in/filipskoczylas/
+- Github: [@silent-sea1119](https://github.com/silent-sea1119)
 
 ## Show your support
 
